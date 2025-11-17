@@ -8,9 +8,9 @@ The circuits included are:
 5. Circuit de Spa-Francorchamps (Belgian Grand Prix)
 
 Summary
-   Downloads the TidyTuesday F1 data directly from GitHub  
-   Merges race, results, and circuit tables  
-   Filter seasons (2015–2021)
-   average race points by starting grid position and circuit  
-   A line plot showing how starting position affects points across the circuits 
+1. Downloads the TidyTuesday F1 data directly from GitHub
+2. Merges race, results, and circuit tables
+3. Filter seasons (2015–2021)
+4. Code average race points by starting grid position and circuit
+5. A line plot showing how starting position affects points across the circuits 
 
