@@ -1,6 +1,6 @@
 The goal of this project is to explore whether a driver’s starting grid position predicts the average number of race points they get, and how this relationship changes depending on the specific race circuit.
 
-The circuits included are:
+The circuits included are
 1. Circuit de Monaco (Monaco Grand Prix)  
 2. Autódromo José Carlos Pace (Brazilian Grand Prix)
 3. Baku City CircuitV(Azerbaijan Grand Prix)
