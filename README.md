@@ -1,4 +1,3 @@
-F1 Grid Position and Race Points
 This repository analyzes how Formula 1 starting grid position corrolates to race points, and how this relationship changes by circuit, using the TidyTuesday F1 dataset.
 
 The goal of this project is to explore whether a driver’s starting grid position predicts the average number of race points they get, and how this relationship changes depending on the specific race circuit.
