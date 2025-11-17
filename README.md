@@ -12,5 +12,4 @@ Summary
 2. Merges race, results, and circuit tables
 3. Filter seasons (2015–2021)
 4. Code average race points by starting grid position and circuit
-5. A line plot showing how starting position affects points across the circuits 
-
+5. A line plot 
